@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/localization-app/static/css/main.893bad4e.chunk.css",
+    "main.js": "/localization-app/static/js/main.cc845eed.chunk.js",
+    "main.js.map": "/localization-app/static/js/main.cc845eed.chunk.js.map",
+    "runtime-main.js": "/localization-app/static/js/runtime-main.12679824.js",
+    "runtime-main.js.map": "/localization-app/static/js/runtime-main.12679824.js.map",
+    "static/js/2.25c67e46.chunk.js": "/localization-app/static/js/2.25c67e46.chunk.js",
+    "static/js/2.25c67e46.chunk.js.map": "/localization-app/static/js/2.25c67e46.chunk.js.map",
+    "index.html": "/localization-app/index.html",
+    "precache-manifest.c62a290ca28cda8c227cc21aaec6674e.js": "/localization-app/precache-manifest.c62a290ca28cda8c227cc21aaec6674e.js",
+    "service-worker.js": "/localization-app/service-worker.js",
+    "static/css/main.893bad4e.chunk.css.map": "/localization-app/static/css/main.893bad4e.chunk.css.map",
+    "static/js/2.25c67e46.chunk.js.LICENSE.txt": "/localization-app/static/js/2.25c67e46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12679824.js",
+    "static/js/2.25c67e46.chunk.js",
+    "static/css/main.893bad4e.chunk.css",
+    "static/js/main.cc845eed.chunk.js"
+  ]
+}
