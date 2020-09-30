@@ -3,15 +3,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # React Localization App
 
 This localization app uses React Hooks within functional components. React Context is used to share the nearby places among components.
-The data is aynchronously fetched from the Google Maps API. Firstly, the entered location in the search bar is translated into coordinates. Then, for these coordinates, the closest bars, restaurants, and gyms are rendered to the page.
+The data is asynchronously fetched from the Google Maps API. Firstly, the entered location in the search bar is translated into coordinates. Then, for these coordinates, the closest bars, restaurants, and gyms are rendered to the page.
 
 ![screenshot](./public/screenshot.png)
 
 
-
 ## Technologies
 
-I used: 
+I used:
 
 - React Context API
 
@@ -22,8 +21,3 @@ I used:
 - Fetch requests
 
 - CSS Grid
-
-  
-
- 
-
