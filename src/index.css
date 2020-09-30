@@ -38,6 +38,7 @@ body {
 .Place {
   display: grid;
   min-height: 100px;
+  max-height: 150px;
   grid-template-columns: 100px 1fr;
   margin-top: 30px;
   column-gap: 10px;
