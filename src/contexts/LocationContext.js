@@ -5,33 +5,9 @@ export const LocationContext = createContext();
 
 const LocationContextProvider = (props) => {
   const [places, setPlaces] = useState({
-    Bars: [
-      {
-        name: "Oak & Coal",
-        address: "333 E 17th St, Ste 2, Costa Mesa, CA 92627",
-        rating: 4.5,
-        imgUrl:
-          '<a href="https://maps.google.com/maps/contrib/103945083023172624850">Sushi Wave</a>',
-      },
-    ],
-    Restaurants: [
-      {
-        name: "Pop Pie - Costa Mesa",
-        address: "270 E 17th St, Ste 17, Costa Mesa, CA 92627",
-        rating: 4.5,
-        imgUrl:
-          '<a href="https://maps.google.com/maps/contrib/103945083023172624850">Sushi Wave</a>',
-      },
-    ],
-    Gyms: [
-      {
-        name: "The Training Zone",
-        address: "333 E 17th St, Ste 18, Costa Mesa, CA 92627",
-        rating: 4.5,
-        imgUrl:
-          '<a href="https://maps.google.com/maps/contrib/103945083023172624850">Sushi Wave</a>',
-      },
-    ],
+    Bars: [],
+    Restaurants: [],
+    Gyms: [],
   });
 
   async function setPlacesForAddress(address) {
